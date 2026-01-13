@@ -27,7 +27,7 @@ My research examines the intersection of **dating violence** and **substance use
 | **Analysis** | Mixed models, NLP pipelines, machine learning, causal inference |
 | **R Ecosystem** | tidyverse, survey, lme4, vegan, lavaan |
 | **Python Ecosystem** | pandas, scikit-learn, spaCy |
-| **Qualtic Methods** | Atlas.ti, NVivo, ethnographic fieldwork |
+| **Qualitative Methods** | Atlas.ti, NVivo, ethnographic fieldwork |
 | **Workflow** | Git, RStudio, Jupyter, Quarto |
 
 ---
@@ -36,10 +36,10 @@ My research examines the intersection of **dating violence** and **substance use
 
 | Project | Description |
 |---------|-------------|
-| [**bruv-analysis**](https://github.com/yeridu/bruv-analysis) | Teleost diversity analysis using BRUV data from South Africa |
-| [**mics5_belize**](https://github.com/yeridu/mics5_belize) | Drivers of domestic violence justification (n=9,446) |
-| [**2020US-Election-Forcast**](https://github.com/yeridu/2020US-Election-Forcast) | Predictive modeling of the 2020 U.S. Presidential Election |
-| [**pol688finalmorales**](https://github.com/yeridu/pol688finalmorales) | ML model predicting Billboard chart positions |
+| [**marine-biodiversity-south-africa**](https://github.com/yeridu/marine-biodiversity-south-africa) | Teleost diversity analysis using underwater video data |
+| [**domestic-violence-attitudes-belize**](https://github.com/yeridu/domestic-violence-attitudes-belize) | Predictors of domestic violence endorsement (n=9,446) |
+| [**us-election-forecast-2020**](https://github.com/yeridu/us-election-forecast-2020) | Predictive modeling of the 2020 U.S. Presidential Election |
+| [**bad-bunny-billboard-prediction**](https://github.com/yeridu/bad-bunny-billboard-prediction) | ML model predicting Billboard chart positions from audio features |
 
 ---
 
